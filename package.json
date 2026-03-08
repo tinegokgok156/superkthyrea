@@ -1,0 +1,14 @@
+{
+  "name": "kthyrea-music-site",
+  "version": "1.0.0",
+  "description": "Simple Node.js music site to list and play MP3 songs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kthyrea",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

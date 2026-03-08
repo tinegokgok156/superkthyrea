@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(white, #ccc, #555, black);
+    color: white;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.songs {
+    max-width: 600px;
+    margin: 20px auto;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.song {
+    margin: 10px 0;
+    padding: 10px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 6px;
+}
+
+.song a {
+    color: #0af;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.player {
+    margin-top: 20px;
+}
+
+audio {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.back {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #0af;
+    text-decoration: none;
+  }

@@ -3,7 +3,7 @@ body {
     text-align: center;
     background: linear-gradient(white, #ccc, #555, black);
     color: white;
-    min-height: 100vh;
+    min-height: 100dvh;
     padding: 20px;
 }
 
